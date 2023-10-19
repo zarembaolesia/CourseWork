@@ -1,0 +1,1 @@
+{"uuid":"e6e613b1-b081-42c6-bc7a-543fbdee3f5f","name":"org.base.BaseGUITest.after","children":["dc39110c-bde8-420a-b603-8b425bb768ed"],"description":"","befores":[],"afters":[{"name":"after","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1697663390418,"stop":1697663390440}],"start":1697663390413,"stop":1697663390440}
